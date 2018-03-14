@@ -16,7 +16,6 @@ class Book
 
 end
 
-
 # def turn_page
 #
 #   if @current_page < :page_count
